@@ -27,7 +27,7 @@ A comprehensive collection of Google Colab notebooks exploring machine learning 
    ```bash
    git clone [https://github.com/Aarya-Musale/machine_learning.git](https://github.com/Aarya-Musale/machine_learning.git)
 
-```
+   ```
 
 2. **Open in Google Colab:**
 Upload any of the `.ipynb` files to [Google Colab](https://colab.research.google.com/) to run and test the models interactively.
