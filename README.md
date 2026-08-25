@@ -9,6 +9,7 @@ A comprehensive collection of Google Colab notebooks exploring machine learning 
 * **`Data_preprocessing.ipynb`** – Techniques for cleaning, scaling, and preparing data for modeling.
 * **`outlier_treatment.ipynb`** – Methods for identifying and handling outliers in datasets.
 * **`imbalance_work.ipynb`** – Strategies for handling class imbalance in machine learning datasets.
+* **`crossValidation_hyper.ipynb`** – Implementation of cross-validation and hyperparameter tuning techniques.
 
 ### Supervised Learning
 * **`2_Linearregression.ipynb` & `Linearregression2.ipynb`** – Implementation and exploration of Linear Regression models.
@@ -44,9 +45,5 @@ Upload any of the `.ipynb` files to [Google Colab](https://colab.research.google
 *Created by Aarya-Musale*
 
 ```
-
-***
-
-Are you planning to explore deep learning frameworks like TensorFlow or PyTorch next?
 
 ```
